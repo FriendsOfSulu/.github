@@ -18,6 +18,7 @@
 - [alengoDev: alengoFormBundle](https://github.com/alengodev/alengoFormBundle) - Saves content from contact forms in the Sulu Backend and sends out mails about it.
 - [innomedio: sulu-image-optimizer-bundle](https://github.com/innomedio/sulu-image-optimizer-bundle) - This bundle optimizes (and/or resizes) images before they are added to the Sulu media library so that they are much easier to handle.
 - [elbformat: sulu-behat-bundle](https://github.com/elbformat/sulu-behat-bundle) - Adds Contexts and Helper to easily set-up behat tests in your sulu application. It makes use of the symfony-behat-bundle.
+- [bitExpert: sulu-securitytxt-bundle](https://github.com/bitExpert/sulu-securitytxt-bundle) - Sulu Bundle to manage security.txt files
 
 #### Work in progress Bundles
 - [mamazu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
@@ -39,9 +40,13 @@
 - [bitExpert: Matomo Tracking in a Sulu Headless setup](https://blog.bitexpert.de/blog/matomo_tracking_sulu_headless)
 - [bitExpert: Using Sulu user roles in conditions](https://blog.bitexpert.de/blog/sulu_userroles_in_conditions)
 - [bitExpert: Adding custom form field to Sulu Forms](https://blog.bitexpert.de/blog/sulu_forms_adding_formfield_type)
-- [bitExpert: CI setup for Sulu CMS](https://blog.bitexpert.de/blog/sulu_ci_setup)
+- [bitExpert: Using Sulu Forms to create contacts in Hubspot](https://blog.bitexpert.de/blog/sulu_forms_creating_contacts_in_hubspot)
 - [bitExpert: Adding a media reference to a Sulu entity](https://blog.bitexpert.de/blog/sulu_entity_with_media_reference)
 - [bitExpert: Adding an entity reference to a Sulu entity](https://blog.bitexpert.de/blog/sulu_entities_referencing_entities)
+- [bitExpert: Populate default data in Sulu CMS](https://blog.bitexpert.de/blog/populate_default_data_in_sulu_cms)
+- [bitExpert: CI setup for Sulu CMS](https://blog.bitexpert.de/blog/sulu_ci_setup)
+- [bitExpert: React setup for Sulu headless](https://blog.bitexpert.de/blog/sulu-headless-react-setup)
+- [bitExpert: Sulu Headless exposing form config](https://blog.bitexpert.de/blog/sulu_headless_form_data)
 - [cloudways: What Is Sulu & Why Do Developers Choose This Symfony CMS?](https://www.cloudways.com/blog/install-sulu-cms/)
 
 ### Social media channels
