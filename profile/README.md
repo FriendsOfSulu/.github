@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img width="400" src="./img/sulu.svg" alt="Friends Of Sylius logo">
+  <img width="400" src="/img/sulu.svg" alt="Friends Of Sulu">
   <br>
   <br>
 </p>
