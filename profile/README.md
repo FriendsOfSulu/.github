@@ -4,7 +4,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 
 <p align="center">
   <br>
-  <img width="400" src="./img/sulu.svg" alt="Friends Of Sulu">
+  <img width="400" src="./profile/img/sulu.svg" alt="Friends Of Sulu">
   <br>
   <br>
 </p>
