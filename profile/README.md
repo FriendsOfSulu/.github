@@ -1,6 +1,11 @@
-## FriendsOfSulu
+<h1 align="center">Friends of Sulu</h1>
 
-
+<p align="center">
+  <br>
+  <img width="400" src="./img/sulu.svg" alt="Friends Of Sylius logo">
+  <br>
+  <br>
+</p>
 
 ### Becoming Friend Of Sulu
 
@@ -23,13 +28,22 @@
 #### Work in progress Bundles
 - [mamazu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
 
+### Keynotes
+
+#### English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- [Oliver Kossin: SULU - An introduction to a Symfony enterprise CMS](https://www.youtube.com/watch?v=d66_3gJJMfY)
+- [Thomas Schedler: An introduction to the world’s finest Symfony enterprise CMS](https://www.youtube.com/watch?v=Ix6qBW4a1xg)
+
+#### German 🇩🇪
+- [SDDC - Oliver Kossin: 5 Minuten - Sulu, das CMS für Symfony-Entwickler](https://www.youtube.com/watch?v=xwedm8j5QeQ)
+- [SDDC - Podcast: Super Duper Podcast - Sulu CMS mit Thomas Schedler](https://www.youtube.com/watch?v=YrY1z6Vtj2k)
 
 ### Tutorials
 
 - [NeverCodeAlone: Sulu Video Tutorial](https://www.youtube.com/watch?v=j869G2h7B2k&list=PLKrKzhBjw2Y_bsIrig7rNLCXgZyYGMRgH)
 - [Sulu.io: Extend Admin](https://docs.sulu.io/en/2.5/book/extend-admin.html)
 - [Sulu.io: Sulu Workshop](https://github.com/sulu/sulu-workshop)
-- [QOSSMIC: SULU - An introduction to a Symfony enterprise CMS](https://www.youtube.com/watch?v=d66_3gJJMfY)
+
 ### Blog posts
 
 #### German 🇩🇪
