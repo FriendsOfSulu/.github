@@ -1,8 +1,10 @@
 <h1 align="center">Friends of Sulu</h1>
 
+Welcome to "Friends of Sulu", the site where you can find information about projects from the Sulu community.
+
 <p align="center">
   <br>
-  <img width="400" src="/img/sulu.svg" alt="Friends Of Sulu">
+  <img width="400" src="./img/sulu.svg" alt="Friends Of Sulu">
   <br>
   <br>
 </p>
