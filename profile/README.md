@@ -34,6 +34,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 
 #### English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - [Oliver Kossin: SULU - An introduction to a Symfony enterprise CMS](https://www.youtube.com/watch?v=d66_3gJJMfY)
+- [Oliver Kossin: Open Source - From idea to the project](https://www.meetup.com/sfugberlin/events/295483905/)
 - [Thomas Schedler: An introduction to the world’s finest Symfony enterprise CMS](https://www.youtube.com/watch?v=Ix6qBW4a1xg)
 
 #### German 🇩🇪
