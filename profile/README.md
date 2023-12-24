@@ -26,6 +26,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [innomedio: sulu-image-optimizer-bundle](https://github.com/innomedio/sulu-image-optimizer-bundle) - This bundle optimizes (and/or resizes) images before they are added to the Sulu media library so that they are much easier to handle.
 - [elbformat: sulu-behat-bundle](https://github.com/elbformat/sulu-behat-bundle) - Adds Contexts and Helper to easily set-up behat tests in your sulu application. It makes use of the symfony-behat-bundle.
 - [bitExpert: sulu-securitytxt-bundle](https://github.com/bitExpert/sulu-securitytxt-bundle) - Sulu Bundle to manage security.txt files
+- [Tailr: sulu-messenger-failed-queue-bundle](https://github.com/tailrdigital/sulu-messenger-failed-queue-bundle) - Sulu Bundle that provides a Sulu admin panel for managing the failed messages in the failure queue of symfony/messenger.
 
 #### Work in progress Bundles
 - [mamazu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
@@ -64,6 +65,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [bitExpert: React setup for Sulu headless](https://blog.bitexpert.de/blog/sulu-headless-react-setup)
 - [bitExpert: Sulu Headless exposing form config](https://blog.bitexpert.de/blog/sulu_headless_form_data)
 - [cloudways: What Is Sulu & Why Do Developers Choose This Symfony CMS?](https://www.cloudways.com/blog/install-sulu-cms/)
+- [tailr: Building a custom admin view in Sulu](https://www.tailr.be/en/blog/een-aangepast-beheerdersoverzicht-bouwen-in-sulu)
 
 ### Social media channels
 
