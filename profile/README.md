@@ -27,6 +27,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [elbformat: sulu-behat-bundle](https://github.com/elbformat/sulu-behat-bundle) - Adds Contexts and Helper to easily set-up behat tests in your sulu application. It makes use of the symfony-behat-bundle.
 - [bitExpert: sulu-securitytxt-bundle](https://github.com/bitExpert/sulu-securitytxt-bundle) - Sulu Bundle to manage security.txt files
 - [Tailr: sulu-messenger-failed-queue-bundle](https://github.com/tailrdigital/sulu-messenger-failed-queue-bundle) - Sulu Bundle that provides a Sulu admin panel for managing the failed messages in the failure queue of symfony/messenger.
+- [Tailr: sulu-translations-bundle](https://github.com/tailrdigital/sulu-translations-bundle) - Adds the possibility to translate and publish labels right from within the sulu admin interface.
 - [robole: SuluAITranslatorBundle](https://github.com/robole-dev/sulu-ai-translator-bundle/) - Integrates DeepL API for translation of content fields.
 
 #### Work in progress Bundles
