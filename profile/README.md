@@ -2,12 +2,6 @@
 
 Welcome to "Friends of Sulu", the site where you can find information about projects from the Sulu community.
 
-<p align="center">
-  <br>
-  <img width="400" src="./profile/img/sulu.svg" alt="Friends Of Sulu">
-  <br>
-  <br>
-</p>
 
 ### Becoming Friend Of Sulu
 
@@ -29,13 +23,13 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [Tailr: sulu-messenger-failed-queue-bundle](https://github.com/tailrdigital/sulu-messenger-failed-queue-bundle) - Sulu Bundle that provides a Sulu admin panel for managing the failed messages in the failure queue of symfony/messenger.
 - [Tailr: sulu-translations-bundle](https://github.com/tailrdigital/sulu-translations-bundle) - Adds the possibility to translate and publish labels right from within the sulu admin interface.
 - [robole: SuluAITranslatorBundle](https://github.com/robole-dev/sulu-ai-translator-bundle/) - Integrates DeepL API for translation of content fields.
-- [manuxi:SuluNewsBundle(https://github.com/manuxi/SuluNewsBundle)] - News bundle with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
-- [manuxi:SuluEventBundle(https://github.com/manuxi/SuluEventBundle)] - Event Bundle based on the workshop with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
-- [manuxi:SuluTestimonialsBundle(https://github.com/manuxi/SuluTestimonialsBundle)] - stores testimonials with ratings.
-- [manuxi:SuluAbbreviationsBundle(https://github.com/manuxi/SuluAbbreviationsBundle)] - stores glossary.
-- [manuxi:SuluAdditionalAccountDataBundle(https://github.com/manuxi/SuluAdditionalAccountDataBundle)] - enritches the Sulu account (aka organisation) with fields for openings/register number.
-- [manuxi:SuluAssociationContactBundle(https://github.com/manuxi/SuluAssociationContactBundle)] - enritches the Sulu contact with association/club data.
-- [manuxi:SuluAppSettingsBasicBundle(https://github.com/manuxi/SuluAppSettingsBasicBundle)] - basic settings (language switcher/search)
+- [manuxi:SuluNewsBundle](https://github.com/manuxi/SuluNewsBundle)] - News bundle with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
+- [manuxi:SuluEventBundle](https://github.com/manuxi/SuluEventBundle)] - Event Bundle based on the workshop with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
+- [manuxi:SuluTestimonialsBundle](https://github.com/manuxi/SuluTestimonialsBundle)] - stores testimonials with ratings.
+- [manuxi:SuluAbbreviationsBundle](https://github.com/manuxi/SuluAbbreviationsBundle)] - stores glossary.
+- [manuxi:SuluAdditionalAccountDataBundle](https://github.com/manuxi/SuluAdditionalAccountDataBundle)] - enritches the Sulu account (aka organisation) with fields for openings/register number.
+- [manuxi:SuluAssociationContactBundle](https://github.com/manuxi/SuluAssociationContactBundle)] - enritches the Sulu contact with association/club data.
+- [manuxi:SuluAppSettingsBasicBundle](https://github.com/manuxi/SuluAppSettingsBasicBundle)] - basic settings (language switcher/search)
 
 #### Work in progress Bundles
 - [mamazu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
