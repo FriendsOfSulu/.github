@@ -13,7 +13,6 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 
 #### Stable Bundles
 - [plozmun: SuluSchemaOrgBundle](https://github.com/plozmun/SuluSchemaOrgBundle) - Integrates Structured Data from Schema.org to your Sulu project.
-- [Harborn-digital: sulu-block-bundle](https://github.com/Harborn-digital/sulu-block-bundle) - A Symfony Bundle for Sulu content management platform containing boilerplate blocks
 - [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
 - [TheCadien: SuluImportExportBundle](https://github.com/TheCadien/SuluImportExportBundle) - Import/Export Content to Sulu
 - [alengoDev: alengoFormBundle](https://github.com/alengodev/alengoFormBundle) - Saves content from contact forms in the Sulu Backend and sends out mails about it.
@@ -30,9 +29,9 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [manuxi:SuluAdditionalAccountDataBundle](https://github.com/manuxi/SuluAdditionalAccountDataBundle)] - enritches the Sulu account (aka organisation) with fields for openings/register number.
 - [manuxi:SuluAssociationContactBundle](https://github.com/manuxi/SuluAssociationContactBundle)] - enritches the Sulu contact with association/club data.
 - [manuxi:SuluAppSettingsBasicBundle](https://github.com/manuxi/SuluAppSettingsBasicBundle)] - basic settings (language switcher/search)
+- [FriendsOfSulu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
 
 #### Work in progress Bundles
-- [FriendsOfSulu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
 - [FriendsOfSulu: SuluAttributesBundle](https://github.com/FriendsOfSulu/SuluAttributesBundle) - adds more [Php Attributes](https://www.php.net/manual/en/language.attributes.overview.php) to Sulu for easier configuration.
 
 ### Keynotes
