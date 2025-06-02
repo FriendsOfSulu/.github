@@ -30,6 +30,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [manuxi:SuluAssociationContactBundle](https://github.com/manuxi/SuluAssociationContactBundle)] - enritches the Sulu contact with association/club data.
 - [manuxi:SuluAppSettingsBasicBundle](https://github.com/manuxi/SuluAppSettingsBasicBundle)] - basic settings (language switcher/search)
 - [FriendsOfSulu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
+- [patrickpahlke03:SuluConfigurationBundle](https://github.com/patrickpahlke03/SuluConfigurationBundle) - adds dynamic configuration settings through the admin interface with form-based configuration...
 
 #### Work in progress Bundles
 - [FriendsOfSulu: SuluAttributesBundle](https://github.com/FriendsOfSulu/SuluAttributesBundle) - adds more [Php Attributes](https://www.php.net/manual/en/language.attributes.overview.php) to Sulu for easier configuration.
