@@ -75,6 +75,17 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [cloudways: What Is Sulu & Why Do Developers Choose This Symfony CMS?](https://www.cloudways.com/blog/install-sulu-cms/)
 - [tailr: Building a custom admin view in Sulu](https://www.tailr.be/en/blog/een-aangepast-beheerdersoverzicht-bouwen-in-sulu)
 
+### Podcasts
+
+#### German 🇩🇪
+- [devslove.it Podcast: Thomas Schedler (#3) - Sulu CMS, PHPCR zu ORM und die Community](https://rss.com/podcasts/devslove-it-der-podcast/1419978/)
+- [devslove.it Podcast: Thomas Schedler (#2) - Speed Snack!](https://rss.com/podcasts/devslove-it-der-podcast/1419976/)
+- [devslove.it Podcast: Thomas Schedler (#1) - Sulu CMS, Geschäftsmodell und Content Architektur](https://rss.com/podcasts/devslove-it-der-podcast/1419974/)
+- [Working Draft: Revision 455: Sulu CMS](https://workingdraft.de/455/)
+
+#### English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- [Today's Deep-Dive: Sulu CMS](https://podcast.safeserver.de/@deepdive/episodes/todays-deep-dive-sulu-cms)
+
 ### Social media channels
 
 - [Sulu: Twitter](https://twitter.com/sulu)
