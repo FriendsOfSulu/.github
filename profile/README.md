@@ -14,7 +14,6 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 #### Stable Bundles
 - [plozmun: SuluSchemaOrgBundle](https://github.com/plozmun/SuluSchemaOrgBundle) - Integrates Structured Data from Schema.org to your Sulu project.
 - [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
-- [TheCadien: SuluImportExportBundle](https://github.com/TheCadien/SuluImportExportBundle) - Import/Export Content to Sulu
 - [alengoDev: alengoFormBundle](https://github.com/alengodev/alengoFormBundle) - Saves content from contact forms in the Sulu Backend and sends out mails about it.
 - [innomedio: sulu-image-optimizer-bundle](https://github.com/innomedio/sulu-image-optimizer-bundle) - This bundle optimizes (and/or resizes) images before they are added to the Sulu media library so that they are much easier to handle.
 - [elbformat: sulu-behat-bundle](https://github.com/elbformat/sulu-behat-bundle) - Adds Contexts and Helper to easily set-up behat tests in your sulu application. It makes use of the symfony-behat-bundle.
@@ -30,6 +29,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [manuxi:SuluAssociationContactBundle](https://github.com/manuxi/SuluAssociationContactBundle)] - enritches the Sulu contact with association/club data.
 - [manuxi:SuluAppSettingsBasicBundle](https://github.com/manuxi/SuluAppSettingsBasicBundle)] - basic settings (language switcher/search)
 - [FriendsOfSulu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
+- [FriendsOfSulu: SuluImportExportBundle](https://github.com/FriendsOfSulu/SuluImportExportBundle) - Import/Export Content to Sulu
 - [patrickpahlke03:SuluConfigurationBundle](https://github.com/patrickpahlke03/SuluConfigurationBundle) - adds dynamic configuration settings through the admin interface with form-based configuration...
 - [PERSPEQTIVE: sulu-snippet-manager-bundle](https://github.com/perspeqtive/sulu-snippet-manager-bundle) - Adds configurable snippet-based navigation items to the Sulu Admin interface to organize snippets by type and permissions.
 
