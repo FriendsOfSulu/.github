@@ -15,6 +15,8 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [plozmun: SuluSchemaOrgBundle](https://github.com/plozmun/SuluSchemaOrgBundle) - Integrates Structured Data from Schema.org to your Sulu project.
 - [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
 - [alengoDev: alengoFormBundle](https://github.com/alengodev/alengoFormBundle) - Saves content from contact forms in the Sulu Backend and sends out mails about it.
+- [alengoDev: alengoWebspaceSettingsBundle](https://github.com/alengodev/alengoWebspaceSettingsBundle) - This bundle provides a way to manage webspace-specific settings in a structured manner.
+- [alengoDev: alengoCacheWarmupBundle](https://github.com/alengodev/alengoCacheWarmupBundle) - This bundle provides a cache warmup mechanism for each URL in your sitemap.xml of your webspace(s).
 - [innomedio: sulu-image-optimizer-bundle](https://github.com/innomedio/sulu-image-optimizer-bundle) - This bundle optimizes (and/or resizes) images before they are added to the Sulu media library so that they are much easier to handle.
 - [elbformat: sulu-behat-bundle](https://github.com/elbformat/sulu-behat-bundle) - Adds Contexts and Helper to easily set-up behat tests in your sulu application. It makes use of the symfony-behat-bundle.
 - [bitExpert: sulu-securitytxt-bundle](https://github.com/bitExpert/sulu-securitytxt-bundle) - Sulu Bundle to manage security.txt files
