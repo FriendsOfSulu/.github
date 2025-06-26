@@ -12,28 +12,28 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 ### Community Bundle list
 
 #### Stable Bundles
-- [plozmun: SuluSchemaOrgBundle](https://github.com/plozmun/SuluSchemaOrgBundle) - Integrates Structured Data from Schema.org to your Sulu project.
-- [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
+- [alengoDev: alengoCacheWarmupBundle](https://github.com/alengodev/alengoCacheWarmupBundle) - This bundle provides a cache warmup mechanism for each URL in your sitemap.xml of your webspace(s).
 - [alengoDev: alengoFormBundle](https://github.com/alengodev/alengoFormBundle) - Saves content from contact forms in the Sulu Backend and sends out mails about it.
 - [alengoDev: alengoWebspaceSettingsBundle](https://github.com/alengodev/alengoWebspaceSettingsBundle) - This bundle provides a way to manage webspace-specific settings in a structured manner.
-- [alengoDev: alengoCacheWarmupBundle](https://github.com/alengodev/alengoCacheWarmupBundle) - This bundle provides a cache warmup mechanism for each URL in your sitemap.xml of your webspace(s).
-- [innomedio: sulu-image-optimizer-bundle](https://github.com/innomedio/sulu-image-optimizer-bundle) - This bundle optimizes (and/or resizes) images before they are added to the Sulu media library so that they are much easier to handle.
-- [elbformat: sulu-behat-bundle](https://github.com/elbformat/sulu-behat-bundle) - Adds Contexts and Helper to easily set-up behat tests in your sulu application. It makes use of the symfony-behat-bundle.
 - [bitExpert: sulu-securitytxt-bundle](https://github.com/bitExpert/sulu-securitytxt-bundle) - Sulu Bundle to manage security.txt files
-- [Tailr: sulu-messenger-failed-queue-bundle](https://github.com/tailrdigital/sulu-messenger-failed-queue-bundle) - Sulu Bundle that provides a Sulu admin panel for managing the failed messages in the failure queue of symfony/messenger.
-- [Tailr: sulu-translations-bundle](https://github.com/tailrdigital/sulu-translations-bundle) - Adds the possibility to translate and publish labels right from within the sulu admin interface.
-- [robole: SuluAITranslatorBundle](https://github.com/robole-dev/sulu-ai-translator-bundle/) - Integrates DeepL API for translation of content fields.
-- [manuxi:SuluNewsBundle](https://github.com/manuxi/SuluNewsBundle) - News bundle with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
-- [manuxi:SuluEventBundle](https://github.com/manuxi/SuluEventBundle) - Event Bundle based on the workshop with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
-- [manuxi:SuluTestimonialsBundle](https://github.com/manuxi/SuluTestimonialsBundle) - stores testimonials with ratings.
-- [manuxi:SuluAbbreviationsBundle](https://github.com/manuxi/SuluAbbreviationsBundle) - stores glossary.
-- [manuxi:SuluAdditionalAccountDataBundle](https://github.com/manuxi/SuluAdditionalAccountDataBundle) - enritches the Sulu account (aka organisation) with fields for openings/register number.
-- [manuxi:SuluAssociationContactBundle](https://github.com/manuxi/SuluAssociationContactBundle) - enritches the Sulu contact with association/club data.
-- [manuxi:SuluAppSettingsBasicBundle](https://github.com/manuxi/SuluAppSettingsBasicBundle) - basic settings (language switcher/search)
+- [elbformat: sulu-behat-bundle](https://github.com/elbformat/sulu-behat-bundle) - Adds Contexts and Helper to easily set-up behat tests in your sulu application. It makes use of the symfony-behat-bundle.
 - [FriendsOfSulu: sulu-maker](https://github.com/mamazu/sulu-maker) - adds [makers](https://symfony.com/bundles/SymfonyMakerBundle/current/index.html) for Sulu Configurations (eg. list or form XML).
 - [FriendsOfSulu: SuluImportExportBundle](https://github.com/FriendsOfSulu/SuluImportExportBundle) - Import/Export Content to Sulu
-- [patrickpahlke03:SuluConfigurationBundle](https://github.com/patrickpahlke03/SuluConfigurationBundle) - adds dynamic configuration settings through the admin interface with form-based configuration...
+- [innomedio: sulu-image-optimizer-bundle](https://github.com/innomedio/sulu-image-optimizer-bundle) - This bundle optimizes (and/or resizes) images before they are added to the Sulu media library so that they are much easier to handle.
+- [manuxi:SuluAbbreviationsBundle](https://github.com/manuxi/SuluAbbreviationsBundle) - stores glossary.
+- [manuxi:SuluAdditionalAccountDataBundle](https://github.com/manuxi/SuluAdditionalAccountDataBundle) - enritches the Sulu account (aka organisation) with fields for openings/register number.
+- [manuxi:SuluAppSettingsBasicBundle](https://github.com/manuxi/SuluAppSettingsBasicBundle) - basic settings (language switcher/search)
+- [manuxi:SuluAssociationContactBundle](https://github.com/manuxi/SuluAssociationContactBundle) - enritches the Sulu contact with association/club data.
+- [manuxi:SuluEventBundle](https://github.com/manuxi/SuluEventBundle) - Event Bundle based on the workshop with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
+- [manuxi:SuluNewsBundle](https://github.com/manuxi/SuluNewsBundle) - News bundle with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
+- [manuxi:SuluTestimonialsBundle](https://github.com/manuxi/SuluTestimonialsBundle) - stores testimonials with ratings.
 - [PERSPEQTIVE: sulu-snippet-manager-bundle](https://github.com/perspeqtive/sulu-snippet-manager-bundle) - Adds configurable snippet-based navigation items to the Sulu Admin interface to organize snippets by type and permissions.
+- [plozmun: SuluSchemaOrgBundle](https://github.com/plozmun/SuluSchemaOrgBundle) - Integrates Structured Data from Schema.org to your Sulu project.
+- [patrickpahlke03:SuluConfigurationBundle](https://github.com/patrickpahlke03/SuluConfigurationBundle) - adds dynamic configuration settings through the admin interface with form-based configuration...
+- [robole: SuluAITranslatorBundle](https://github.com/robole-dev/sulu-ai-translator-bundle/) - Integrates DeepL API for translation of content fields.
+- [Tailr: sulu-messenger-failed-queue-bundle](https://github.com/tailrdigital/sulu-messenger-failed-queue-bundle) - Sulu Bundle that provides a Sulu admin panel for managing the failed messages in the failure queue of symfony/messenger.
+- [Tailr: sulu-translations-bundle](https://github.com/tailrdigital/sulu-translations-bundle) - Adds the possibility to translate and publish labels right from within the sulu admin interface.
+- [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
 
 #### Work in progress Bundles
 - [FriendsOfSulu: SuluAttributesBundle](https://github.com/FriendsOfSulu/SuluAttributesBundle) - adds more [Php Attributes](https://www.php.net/manual/en/language.attributes.overview.php) to Sulu for easier configuration.
