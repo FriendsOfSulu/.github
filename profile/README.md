@@ -50,6 +50,8 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 
 ### Tutorials
 
+- [NeverCodeAlone: Sulu AI](https://www.youtube.com/watch?v=PBkfMI5B4WQ)
+- [NeverCodeAlone: Sulu Introduction](https://www.youtube.com/watch?v=_v3NqIO4ci8)
 - [NeverCodeAlone: Sulu Video Tutorial](https://www.youtube.com/watch?v=j869G2h7B2k&list=PLKrKzhBjw2Y_bsIrig7rNLCXgZyYGMRgH)
 - [Sulu.io: Extend Admin](https://docs.sulu.io/en/2.5/book/extend-admin.html)
 - [Sulu.io: Sulu Workshop](https://github.com/sulu/sulu-workshop)
