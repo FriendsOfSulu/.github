@@ -31,6 +31,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [plozmun: SuluSchemaOrgBundle](https://github.com/plozmun/SuluSchemaOrgBundle) - Integrates Structured Data from Schema.org to your Sulu project.
 - [patrickpahlke03:SuluConfigurationBundle](https://github.com/patrickpahlke03/SuluConfigurationBundle) - adds dynamic configuration settings through the admin interface with form-based configuration...
 - [robole: SuluAITranslatorBundle](https://github.com/robole-dev/sulu-ai-translator-bundle/) - Integrates DeepL API for translation of content fields.
+- [robole: SuluVideoBundle](https://github.com/robole-dev/sulu-video-bundle) -  preview and extract embed URLs from Youtube, Vimeo, Dailymotion and HTML5 videos.
 - [Tailr: sulu-messenger-failed-queue-bundle](https://github.com/tailrdigital/sulu-messenger-failed-queue-bundle) - Sulu Bundle that provides a Sulu admin panel for managing the failed messages in the failure queue of symfony/messenger.
 - [Tailr: sulu-translations-bundle](https://github.com/tailrdigital/sulu-translations-bundle) - Adds the possibility to translate and publish labels right from within the sulu admin interface.
 - [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
