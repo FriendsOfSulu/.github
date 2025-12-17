@@ -36,6 +36,9 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [Tailr: sulu-translations-bundle](https://github.com/tailrdigital/sulu-translations-bundle) - Adds the possibility to translate and publish labels right from within the sulu admin interface.
 - [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
 
+### Sulu 3 Bundles
+- [manuxi:SuluEventBundle](https://github.com/manuxi/SuluEventBundle) - comprehensive event management with rich event data, locations, media, recurring events, calendar views, iCal/RSS feeds, social sharing and more.
+
 #### Work in progress Bundles
 - [FriendsOfSulu: SuluAttributesBundle](https://github.com/FriendsOfSulu/SuluAttributesBundle) - adds more [Php Attributes](https://www.php.net/manual/en/language.attributes.overview.php) to Sulu for easier configuration.
 
