@@ -12,6 +12,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 ### Community Bundle list
 
 #### Stable Bundles
+- [akawaka: sulu-multi-ckeditor-bundle](https://github.com/akawaka/sulu-multi-ckeditor-bundle) - Provides different text editor configurations within the same Sulu installation using YAML configuration.
 - [alengoDev: alengoCacheWarmupBundle](https://github.com/alengodev/alengoCacheWarmupBundle) - This bundle provides a cache warmup mechanism for each URL in your sitemap.xml of your webspace(s).
 - [alengoDev: alengoFormBundle](https://github.com/alengodev/alengoFormBundle) - Saves content from contact forms in the Sulu Backend and sends out mails about it.
 - [alengoDev: alengoWebspaceSettingsBundle](https://github.com/alengodev/alengoWebspaceSettingsBundle) - This bundle provides a way to manage webspace-specific settings in a structured manner.
