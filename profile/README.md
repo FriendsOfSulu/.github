@@ -25,7 +25,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [manuxi:SuluAdditionalAccountDataBundle](https://github.com/manuxi/SuluAdditionalAccountDataBundle) - enritches the Sulu account (aka organisation) with fields for openings/register number.
 - [manuxi:SuluAppSettingsBasicBundle](https://github.com/manuxi/SuluAppSettingsBasicBundle) - basic settings (language switcher/search)
 - [manuxi:SuluAssociationContactBundle](https://github.com/manuxi/SuluAssociationContactBundle) - enritches the Sulu contact with association/club data.
-- [manuxi:SuluEventBundle](https://github.com/manuxi/SuluEventBundle) - Event Bundle based on the workshop with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
+- [manuxi:SuluEventBundle](https://github.com/manuxi/SuluEventBundle) - comprehensive event management with rich event data, locations, media, recurring events, calendar views, iCal/RSS feeds, social sharing and more.
 - [manuxi:SuluNewsBundle](https://github.com/manuxi/SuluNewsBundle) - News bundle with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
 - [manuxi:SuluTestimonialsBundle](https://github.com/manuxi/SuluTestimonialsBundle) - stores testimonials with ratings.
 - [PERSPEQTIVE: sulu-snippet-manager-bundle](https://github.com/perspeqtive/sulu-snippet-manager-bundle) - Adds configurable snippet-based navigation items to the Sulu Admin interface to organize snippets by type and permissions.
@@ -36,10 +36,6 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [Tailr: sulu-messenger-failed-queue-bundle](https://github.com/tailrdigital/sulu-messenger-failed-queue-bundle) - Sulu Bundle that provides a Sulu admin panel for managing the failed messages in the failure queue of symfony/messenger.
 - [Tailr: sulu-translations-bundle](https://github.com/tailrdigital/sulu-translations-bundle) - Adds the possibility to translate and publish labels right from within the sulu admin interface.
 - [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
-- [Manuxi: SuluEventBundle](https://github.com/manuxi/SuluEventBundle) - Comprehensive eventsystem 
-
-### Sulu 3 Bundles
-- [manuxi:SuluEventBundle](https://github.com/manuxi/SuluEventBundle) - comprehensive event management with rich event data, locations, media, recurring events, calendar views, iCal/RSS feeds, social sharing and more.
 
 #### Work in progress Bundles
 - [FriendsOfSulu: SuluAttributesBundle](https://github.com/FriendsOfSulu/SuluAttributesBundle) - adds more [Php Attributes](https://www.php.net/manual/en/language.attributes.overview.php) to Sulu for easier configuration.
