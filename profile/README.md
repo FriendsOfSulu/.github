@@ -36,7 +36,7 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [Tailr: sulu-messenger-failed-queue-bundle](https://github.com/tailrdigital/sulu-messenger-failed-queue-bundle) - Sulu Bundle that provides a Sulu admin panel for managing the failed messages in the failure queue of symfony/messenger.
 - [Tailr: sulu-translations-bundle](https://github.com/tailrdigital/sulu-translations-bundle) - Adds the possibility to translate and publish labels right from within the sulu admin interface.
 - [TheCadien: SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle) - News Bundle without using PHPCR and ElasticSearch
-- [Predjee: YiggleFormWizardBundle](https://github.com/Predjee/yiggle-form-wizard-bundle) - Multi-step form wizard bundle with Mollie payments and Sulu CMS integration - Adds a form wizard to the Sulu admin interface. (SULU 3.x)
+- [Predjee: YiggleFormWizardBundle](https://github.com/Predjee/form-wizard-bundle) - Multi-step form wizard bundle with Mollie payments and Sulu CMS integration - Adds a form wizard to the Sulu admin interface. (SULU 3.x)
 
 #### Work in progress Bundles
 - [FriendsOfSulu: SuluAttributesBundle](https://github.com/FriendsOfSulu/SuluAttributesBundle) - adds more [Php Attributes](https://www.php.net/manual/en/language.attributes.overview.php) to Sulu for easier configuration.
