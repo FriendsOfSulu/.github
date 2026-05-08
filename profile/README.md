@@ -29,6 +29,8 @@ Welcome to "Friends of Sulu", the site where you can find information about proj
 - [manuxi:SuluNewsBundle](https://github.com/manuxi/SuluNewsBundle) - News bundle with SEO, Excerpt, Translations, Link, Trash, Sitemap, Automation, ...
 - [manuxi:SuluTestimonialsBundle](https://github.com/manuxi/SuluTestimonialsBundle) - stores testimonials with ratings.
 - [PERSPEQTIVE: sulu-snippet-manager-bundle](https://github.com/perspeqtive/sulu-snippet-manager-bundle) - Adds configurable snippet-based navigation items to the Sulu Admin interface to organize snippets by type and permissions.
+- [PERSPEQTIVE: sulu-snippet-tabs-bundle](https://github.com/perspeqtive/sulu-snippet-tabs-bundle) - Adds custom tabs to your snippets through a simple YAML configuration.
+- [PERSPEQTIVE: sulu-media-credits-bundle](https://github.com/perspeqtive/sulu-media-credits-bundle) - Enables the automatic listing of media credits for media used on the current website.
 - [plozmun: SuluSchemaOrgBundle](https://github.com/plozmun/SuluSchemaOrgBundle) - Integrates Structured Data from Schema.org to your Sulu project.
 - [patrickpahlke03:SuluConfigurationBundle](https://github.com/patrickpahlke03/SuluConfigurationBundle) - adds dynamic configuration settings through the admin interface with form-based configuration...
 - [robole: SuluAITranslatorBundle](https://github.com/robole-dev/sulu-ai-translator-bundle/) - Integrates DeepL API for translation of content fields.
